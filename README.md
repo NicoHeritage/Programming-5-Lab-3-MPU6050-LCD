@@ -1,4 +1,4 @@
-## Programming 5 Lab 3
+# Programming 5 Lab 3 [![Online Demo](Images/Button.png)](https://wokwi.com/projects/475960292905546753)
 
 [![Online Demo](Images/Button.png)](https://wokwi.com/projects/475960292905546753)  
 <sub> Clickable Image ^ <sub/>
@@ -19,13 +19,18 @@
 ## 1.1 Purpose
 This document contains the testing procedures, results, and operational verification performed on an ESP32-S3 based IoT orientation monitoring system using an MPU6050 6-axis IMU and a 16x2 I2C LCD display. It records the names of all individuals involved in the design, implementation, and testing of the system and, if modified, should be reviewed and approved by the individuals identified in the sections below.
 
-## 1.2 OVERVIEW
+## 1.2 Overview
 An initial test was conducted to verify communication between the ESP32-S3, IMU, and LCD display. Additional testing was performed to validate the acquisition of acceleration and rotational data, the calculation of pitch, roll, and yaw values, and the display of sensor information on the LCD. Once development and verification activities were completed, a final evaluation was performed to determine the operational status of the UUT. The results of these tests were determined to be Successful.
 
 Additional comments are included for future reference, and the document lists all individuals involved, and is sealed with the signature of the author 
 
 # 2.0 Initial Functionality Test
+<figure>
+<img src="https://github.com/NicoHeritage/Programming-5-Lab-3-MPU6050-LCD/blob/NicoHeritage-patch-1/Images/Test_Image.jpg" width="150" height="300">
+  <figcaption><em>Figure 1: This is a test image</em></figcaption>
+</figure>
 
+This is the board wired. This is the board wired.This is the board wired.This is the board wired.This is the board wired.This is the board wired.This is the board wired.This is the board wired.
 
 # 3.0 Maintenance Instructions
 <sub>Table 2: Maintenance Instructions<sub/>
@@ -57,7 +62,7 @@ The system successfully met all project requirements and operated as intended du
 
 # 7.0 Test/Maintenance Report Approval
 
-# APPENDIX: KEY TERMS
+# Appendix: Key Terms
 The following table provides definitions for terms relevant to this document.
 | Term | Definition |
 | --------------- | --------------- |
