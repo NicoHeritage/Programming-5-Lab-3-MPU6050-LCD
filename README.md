@@ -23,7 +23,7 @@ Additional comments are included for future reference, and the document lists al
 
 # 2.0 Initial Functionality Test
 <figure>
-<img src="https://github.com/NicoHeritage/Programming-5-Lab-3-MPU6050-LCD/blob/NicoHeritage-patch-1/Images/Test_Image.jpg" width="150" height="300">
+<img src="https://github.com/NicoHeritage/Programming-5-Lab-3-MPU6050-LCD/blob/main/Images/Test_Image.jpg" width="150" height="300">
   <figcaption><em>Figure 1: This is a test image</em></figcaption>
 </figure>
 
