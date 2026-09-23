@@ -23,7 +23,12 @@ An initial test was conducted to verify communication between the ESP32-S3, IMU,
 Additional comments are included for future reference, and the document lists all individuals involved, and is sealed with the signature of the author 
 
 # 2.0 Initial Functionality Test
+<figure>
+<img src="https://github.com/NicoHeritage/Programming-5-Lab-3-MPU6050-LCD/blob/NicoHeritage-patch-1/Images/Test_Image.jpg" width="150" height="300">
+  <figcaption><em>Figure 1: This is a test image</em></figcaption>
+</figure>
 
+This is the board wired. This is the board wired.This is the board wired.This is the board wired.This is the board wired.This is the board wired.This is the board wired.This is the board wired.
 
 # 3.0 Maintenance Instructions
 <sub>Table 2: Maintenance Instructions<sub/>
