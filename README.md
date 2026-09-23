@@ -1,7 +1,6 @@
 ## Programming 5 Lab 3
 
-https://wokwi.com/projects/475960292905546753
-  <img src="./images/live-demo-button.png" alt="
+[![Online Demo]()](https://wokwi.com/projects/475960292905546753)
 
 ## Table of Contents
 [1.0 Introduction](#10-introduction)  
